@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://olivialattus.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://olivialattus.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>https://olivialattus.org/blog/welcome/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://olivialattus.org/blog/welcome/</guid>
+      <description>Welcome to my blog: books, resources, and more.</description>
+    </item>
+    
+    <item>
+      <title>Economic Slack in Wheat Production</title>
+      <link>https://olivialattus.org/research/foodloss/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://olivialattus.org/research/foodloss/</guid>
+      <description>This paper analyzes wheat crop loss as a result of demand, supply and price shocks.</description>
+    </item>
+    
+  </channel>
+</rss>
