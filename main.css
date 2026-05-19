@@ -58,6 +58,7 @@ a:hover {
   width: 100%;
   display: block;
   margin-bottom: 18px;
+  image-rendering: high-quality;
 }
 
 h1 {
