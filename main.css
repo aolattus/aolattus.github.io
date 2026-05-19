@@ -163,6 +163,16 @@ h2 {
   color: var(--muted);
 }
 
+.jmp-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-left: 6px;
+  white-space: nowrap;
+}
+
 .abstract {
   font-size: 0.8rem;
   color: var(--abstract-text);
