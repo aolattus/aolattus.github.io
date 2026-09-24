@@ -40,9 +40,9 @@ a:hover {
 
 .page {
   display: grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 300px 1fr;
   gap: 72px;
-  max-width: 940px;
+  max-width: 980px;
   margin: 0 auto;
 }
 
