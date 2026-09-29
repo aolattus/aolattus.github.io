@@ -121,7 +121,7 @@ section {
 }
 
 h2 {
-  font-size: 0.82rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -157,6 +157,28 @@ h2 {
 .paper-meta {
   font-size: 0.78rem;
   color: var(--muted);
+}
+
+.paper-link {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 2px;
+  padding: 1px 5px;
+  margin-left: 7px;
+  white-space: nowrap;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.paper-link:hover {
+  background: var(--accent);
+  color: var(--bg);
+  text-decoration: none;
 }
 
 .jmp-label {
