@@ -18,7 +18,7 @@ html, body {
   background: var(--bg);
   color: var(--text);
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
 }
@@ -95,7 +95,7 @@ h1 {
 .cv-link {
   display: inline-block;
   margin-top: 12px;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -121,7 +121,7 @@ section {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
