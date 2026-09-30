@@ -163,7 +163,6 @@ h2 {
 .paper-status {
   display: inline-block;
   font-size: 0.72rem;
-  font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--accent);
