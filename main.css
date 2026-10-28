@@ -243,6 +243,13 @@ h2 {
   margin-left: 4px;
   vertical-align: middle;
   white-space: nowrap;
+  text-decoration: none;
+}
+
+.jmp-label:hover {
+  background: var(--accent);
+  color: var(--bg);
+  text-decoration: none;
 }
 
 .abstract {
